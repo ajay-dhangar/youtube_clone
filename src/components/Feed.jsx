@@ -21,7 +21,11 @@ const Feed = () => {
         <Sidebar selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} />
         
         <Typography className="copyright" variant="body2" sx={{ mt: 1.5, color: "#fff", }}>
-          Copyright © 2022 JSM Media
+           Copyright © 2023
+          <a href="https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/">
+            {" "}
+            Ajay Dhangar.
+          </a>{" "}
         </Typography>
       </Box>
 
