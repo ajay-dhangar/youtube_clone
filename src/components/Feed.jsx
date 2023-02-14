@@ -22,7 +22,7 @@ const Feed = () => {
         
         <Typography className="copyright" variant="body2" sx={{ mt: 1.5, color: "#fff", }}>
            Copyright © 2023
-          <a href="https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/">
+          <a href="https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/" style={{color: "red"}}>
             {" "}
             Ajay Dhangar.
           </a>{" "}
