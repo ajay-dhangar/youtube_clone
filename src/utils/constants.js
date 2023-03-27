@@ -34,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://user-images.githubusercontent.com/99037494/218641157-c3bf9d34-a702-4e4f-90c3-1d855226ccff.png';
-export const demoChannelUrl = '/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw';
-export const demoVideoUrl = '/video/A64h99E3xwg';
+export const demoThumbnailUrl = 'https://user-images.githubusercontent.com/99037494/219045173-5c07392a-737b-4acb-82bd-85df924e6e9f.png';
+export const demoChannelUrl = 'channel/UCRQBq8dfTEZfIMxmq-Ba9Tw';
+export const demoVideoUrl = '/video/_IT3uO637bg';
 export const demoChannelTitle = 'Aj Zero Coding';
-export const demoVideoTitle = 'css task 5 || css transition, css transform, css animation #css #css3 #css_transform #css_animation';
+export const demoVideoTitle = 'Discover a New Way to Watch YouTube - Introducing the Aid-Free YouTube Clone #youtube #socialmedia';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
