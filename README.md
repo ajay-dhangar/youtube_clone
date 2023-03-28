@@ -1,6 +1,6 @@
 # Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
 
-Introducing the Aid-Free YouTube Clone - the Future of Video Streaming! In this project, Ajay Dhangar gives a demo of his revolutionary new website.  and it I make with the help of @adrianhajdin. With all the features of YouTube and none of the annoyances, you can watch your favorite videos and channels without any interruptions. Say goodbye to ads and paywalls, and hello to the ultimate video streaming experience. Check this short demo to view it for yourself!
+Introducing the Aid-Free YouTube Clone - the Future of Video Streaming! In this project, Ajay Dhangar gives a demo of his revolutionary new website.  and it I make with the help of [@adrianhajdin](https://github.com/adrianhajdin). With all the features of YouTube and none of the annoyances, you can watch your favorite videos and channels without any interruptions. Say goodbye to ads and paywalls, and hello to the ultimate video streaming experience. Check this short demo to view it for yourself!
 
 Live Preview: [Open](https://my-youtube-ajay.vercel.app/)
 
