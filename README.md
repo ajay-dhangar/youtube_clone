@@ -6,7 +6,7 @@
 <a href="https://github.com/Ajay-Dhangar/youtube_clone/network/members"><img src="https://img.shields.io/github/forks/Ajay-Dhangar/youtube_clone" alt="Forks Badge"/></a>
 <a href="https://github.com/Ajay-Dhangar/youtube_clone/pulls"><img src="https://img.shields.io/github/issues-pr/Ajay-Dhangar/youtube_clone" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Ajay-Dhangar/youtube_clone/issues"><img src="https://img.shields.io/github/issues/Ajay-Dhangar/youtube_clone" alt="Issues Badge"/></a>
-<a href="https://github.com/Ajay-Dhangar/youtube_clonegraphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Ajay-Dhangar/youtube_clone?color=2b9348"></a>
+<a href="https://github.com/Ajay-Dhangar/youtube_clone/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Ajay-Dhangar/youtube_clone?color=2b9348"></a>
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
