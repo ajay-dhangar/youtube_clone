@@ -1,12 +1,12 @@
-<a href="https://github.com/Ajay-Dhangar/youtube_clone/actions/workflows/codeql.yml"><img src="https://github.com/Ajay-Dhangar/CodeMastermindHQ/actions/workflows/codeql.yml/badge.svg"  alt="CodeQL" /></a>
+<!-- <a href="https://github.com/Ajay-Dhangar/youtube_clone/actions/workflows/codeql.yml"><img src="https://github.com/Ajay-Dhangar/CodeMastermindHQ/actions/workflows/codeql.yml/badge.svg"  alt="CodeQL" /></a> -->
 <a href="https://twitter.com/AJAYDHA27250016"><img src="https://img.shields.io/twitter/follow/AJAYDHA27250016.svg?style=social"  alt="Twitter Follow" /></a>
 <a href="https://discord.gg/BFkPKMsfuZ"><img src="https://img.shields.io/discord/102860784329052160.svg" alt="Discord Chat" /></a>
-<a href="https://github.com/Ajay-Dhangar/youtube_clone/blob/main/LICENSE"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
-<a href="https://github.com/Ajay-Dhangar/youtube_clone/stargazers"><img src="https://img.shields.io/github/stars/Ajay-Dhangar/CodeMastermindHQ" alt="Stars Badge"/></a>
-<a href="https://github.com/Ajay-Dhangar/youtube_clone/network/members"><img src="https://img.shields.io/github/forks/Ajay-Dhangar/CodeMastermindHQ" alt="Forks Badge"/></a>
-<a href="https://github.com/Ajay-Dhangar/youtube_clone/pulls"><img src="https://img.shields.io/github/issues-pr/Ajay-Dhangar/CodeMastermindHQ" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Ajay-Dhangar/youtube_clone/issues"><img src="https://img.shields.io/github/issues/Ajay-Dhangar/CodeMastermindHQ" alt="Issues Badge"/></a>
-<a href="https://github.com/Ajay-Dhangar/youtube_clonegraphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Ajay-Dhangar/CodeMastermindHQ?color=2b9348"></a>
+<!-- <a href="https://github.com/Ajay-Dhangar/youtube_clone/blob/main/LICENSE"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a> -->
+<a href="https://github.com/Ajay-Dhangar/youtube_clone/stargazers"><img src="https://img.shields.io/github/stars/Ajay-Dhangar/youtube_clone" alt="Stars Badge"/></a>
+<a href="https://github.com/Ajay-Dhangar/youtube_clone/network/members"><img src="https://img.shields.io/github/forks/Ajay-Dhangar/youtube_clone" alt="Forks Badge"/></a>
+<a href="https://github.com/Ajay-Dhangar/youtube_clone/pulls"><img src="https://img.shields.io/github/issues-pr/Ajay-Dhangar/youtube_clone" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Ajay-Dhangar/youtube_clone/issues"><img src="https://img.shields.io/github/issues/Ajay-Dhangar/youtube_clone" alt="Issues Badge"/></a>
+<a href="https://github.com/Ajay-Dhangar/youtube_clonegraphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Ajay-Dhangar/youtube_clone?color=2b9348"></a>
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
