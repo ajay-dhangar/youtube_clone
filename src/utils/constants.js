@@ -35,7 +35,7 @@ export const categories = [
 ];
 
 export const demoThumbnailUrl = 'https://user-images.githubusercontent.com/99037494/219045173-5c07392a-737b-4acb-82bd-85df924e6e9f.png';
-export const demoChannelUrl = '@Code-Mastermind-HQ';
+export const demoChannelUrl = '/channel/UCYGChuz0YqmljjCEDvNYndg';
 export const demoVideoUrl = '/video/fiXdHkLrpfo';
 export const demoChannelTitle = 'CodeMastermindHQ';
 export const demoVideoTitle = 'Discover a New Way to Watch YouTube - Introducing the Aid-Free YouTube Clone #youtube #socialmedia';
