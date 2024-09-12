@@ -16,7 +16,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'CodeMastermindQ', icon: <CodeIcon />, },
+  { name: 'Ajay Dhangar', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -35,8 +35,8 @@ export const categories = [
 ];
 
 export const demoThumbnailUrl = 'https://user-images.githubusercontent.com/99037494/219045173-5c07392a-737b-4acb-82bd-85df924e6e9f.png';
-export const demoChannelUrl = '/channel/UCYGChuz0YqmljjCEDvNYndg';
-export const demoVideoUrl = '/video/fiXdHkLrpfo';
+export const demoChannelUrl = '/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw';
+export const demoVideoUrl = '/video/lI3RBnK8V6Y';
 export const demoChannelTitle = 'CodeMastermindHQ';
 export const demoVideoTitle = 'Discover a New Way to Watch YouTube - Introducing the Aid-Free YouTube Clone #youtube #socialmedia';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
